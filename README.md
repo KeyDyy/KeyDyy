@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 
-**KeyDyy/KeyDyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KeyDyy/KeyDyy** is a ✨ _special_ ✨
 
